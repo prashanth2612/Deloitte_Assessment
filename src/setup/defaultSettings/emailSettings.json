@@ -1,0 +1,20 @@
+[
+  {
+    "settingCategory": "email_settings",
+    "settingKey": "email_domain",
+    "settingValue": "app.com",
+    "valueType": "string"
+  },
+  {
+    "settingCategory": "email_settings",
+    "settingKey": "email_reply_to",
+    "settingValue": "reply@app.com",
+    "valueType": "string"
+  },
+  {
+    "settingCategory": "email_settings",
+    "settingKey": "email_from",
+    "settingValue": " ERP CRM",
+    "valueType": "string"
+  }
+]
